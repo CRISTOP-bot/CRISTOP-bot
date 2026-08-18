@@ -1,157 +1,149 @@
-👋 Hola, soy Cristopher Borjas | Developer
+```md
+# Cristopher Borjas
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f2937&height=180&section=header&text=Cristopher%20Borjas%20%7C%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="banner" />
-</p><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Developer+%7C+Linux+lover+%7C+Creator+of+projects;Python+%7C+HTML+%7C+CSS;Juegos%2C+apps+y+personalizaci%C3%B3n+de+Linux" alt="typing svg" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Focus-Juegos%20%2B%20Apps%20%2B%20Linux-00FF9F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Style-Pro%20%2B%20Hacker-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Intermedio-1f6feb?style=for-the-badge" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f2937&height=180&section=header&text=Cristopher%20Borjas&fontSize=36&fontColor=ffffff&animation=fadeIn"
+    alt="Cristopher Borjas"
+  />
 </p>
----
-
-🧠 Sobre mí
-
-Me gusta crear cosas prácticas, divertidas y personalizables. Estoy enfocado en juegos, apps y el mundo de Linux, especialmente cuando puedo modificarlo a mi estilo.
-
-🐍 Programo con Python
-
-🌐 Hago cosas con HTML y CSS
-
-🐧 Me gusta Arch Linux
-
-🪟 Uso y exploro XFCE, Hyprland y KDE Plasma
-
-🔧 Me gusta el ricing de nivel intermedio
-
-
-
----
-
-🛠️ Tecnologías que uso
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF6B00?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <strong>Desarrollador enfocado en Python, desarrollo web y sistemas Linux</strong>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-FF6B00?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</p>
+
 ---
 
-🚀 Proyectos destacados
+## Sobre mí
 
-🎮 Snake táctil en Python
+Soy un desarrollador en formación interesado en la creación de aplicaciones, videojuegos y herramientas personalizadas.
 
-Un juego sencillo pero divertido, pensado para jugarse cómodamente y seguir mejorándolo con más funciones.
+Mi principal lenguaje de programación es Python. También trabajo con HTML y CSS para desarrollar proyectos web y explorar conceptos relacionados con el diseño de interfaces.
 
-Qué incluye / puede incluir:
+Tengo un interés particular por Linux, especialmente por la configuración, administración y personalización de entornos como XFCE, Hyprland y KDE Plasma.
 
-Controles táctiles
+Me gusta aprender mediante proyectos prácticos, experimentar con nuevas tecnologías y comprender cómo funcionan los sistemas internamente.
 
-Puntuación
+---
 
-Mejores partidas
+## Áreas de interés
 
-Diseño adaptable
+- Desarrollo de aplicaciones con Python
+- Desarrollo web con HTML y CSS
+- Creación de videojuegos
+- Automatización de tareas
+- Sistemas Linux y Arch Linux
+- Personalización de entornos de escritorio
+- Diseño de interfaces
+- Programación y aprendizaje continuo
 
+---
 
-Uso:
+## Tecnologías y herramientas
 
-1. Ejecuta el archivo principal.
+| Área | Tecnologías |
+| --- | --- |
+| Lenguajes | Python, HTML, CSS |
+| Control de versiones | Git |
+| Sistemas | Linux, Arch Linux |
+| Entornos de escritorio | XFCE, Hyprland, KDE Plasma |
+| Desarrollo | Aplicaciones, videojuegos y herramientas personales |
 
+---
 
-2. Toca o usa las teclas para mover la serpiente.
+## Proyectos
 
+### Snake en Python
 
-3. Intenta romper tu récord.
+Videojuego basado en el clásico Snake, desarrollado con Python.
 
+El proyecto busca ofrecer una experiencia sencilla y adaptable, con soporte para diferentes métodos de control.
 
+#### Características
 
-# Ejemplo simple de idea
+- Movimiento mediante teclado
+- Soporte para controles táctiles
+- Sistema de puntuación
+- Registro de mejores resultados
+- Diseño adaptable
+- Mejoras y nuevas funciones en desarrollo
+
+```python
 if score > best_score:
     best_score = score
-
-
----
-
-🧮 Calculadora avanzada en Python
-
-Una calculadora más completa, hecha para resolver operaciones rápidas y también probar funciones extra.
-
-Qué incluye / puede incluir:
-
-Operaciones básicas
-
-Historial
-
-Funciones avanzadas
-
-Interfaz pensada para móvil o PC
-
-
-Uso:
-
-1. Abre el programa.
-
-
-2. Escribe la operación.
-
-
-3. Revisa el resultado y el historial.
-
-
-
-resultado = eval(operacion)
-print(resultado)
-
+```
 
 ---
 
-📊 GitHub Stats
+### Calculadora avanzada en Python
+
+Aplicación para realizar operaciones matemáticas y experimentar con funciones adicionales.
+
+#### Características previstas
+
+- Operaciones básicas
+- Historial de resultados
+- Funciones matemáticas avanzadas
+- Interfaz sencilla
+- Compatibilidad con PC y dispositivos móviles
+
+El proyecto utiliza un sistema de evaluación controlado para procesar las operaciones de forma segura.
+
+---
+
+## Objetivos actuales
+
+- Mejorar mis conocimientos de Python
+- Desarrollar proyectos más completos y mantenibles
+- Aprender nuevas herramientas de desarrollo
+- Profundizar en Linux y la administración de sistemas
+- Mejorar mis conocimientos de desarrollo web
+- Crear aplicaciones y videojuegos funcionales
+- Construir una trayectoria sólida como desarrollador
+
+---
+
+## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRISTOP-bot&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9F&icon_color=00FF9F&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTOP-bot&layout=compact&theme=transparent&hide_border=true&title_color=00FF9F&text_color=ffffff" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CRISTOP-bot&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9F&icon_color=00FF9F&text_color=ffffff"
+    height="180"
+    alt="Estadísticas de GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTOP-bot&layout=compact&theme=transparent&hide_border=true&title_color=00FF9F&text_color=ffffff"
+    height="180"
+    alt="Lenguajes más utilizados"
+  />
 </p>
----
-
-✨ Frase
-
-> “No busco solo programar cosas; busco crear algo que se sienta mío.”
-
-
-
 
 ---
 
-📫 Contacto
+## Contacto
 
-GitHub: CRISTOP-bot
-
-Discord: cristopher078140
-
-Gmail: borjascristopher88@gmail.com
-
-
+- **GitHub:** `CRISTOP-bot`
+- **Discord:** `cristopher078140`
+- **Correo electrónico:** `borjascristopher88@gmail.com`
 
 ---
 
-🖤 Estilo del perfil
+## Filosofía
 
-Fondo oscuro
-
-Toques verdes/neón
-
-Vibra hacker
-
-Diseño limpio pero llamativo
-
-
-
----
+> “No busco solo programar cosas; busco crear proyectos útiles, funcionales y que representen mi forma de trabajar.”
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00FF9F&height=120&section=footer" alt="footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00FF9F&height=120&section=footer"
+    alt="Footer"
+  />
 </p>
+``` 
