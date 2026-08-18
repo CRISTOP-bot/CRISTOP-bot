@@ -1,4 +1,3 @@
-```md
 # Cristopher Borjas
 
 <p align="center">
@@ -146,4 +145,3 @@ El proyecto utiliza un sistema de evaluación controlado para procesar las opera
     alt="Footer"
   />
 </p>
-``` 
