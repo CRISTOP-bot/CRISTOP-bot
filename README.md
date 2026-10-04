@@ -80,7 +80,7 @@ se va en sistemas operativos, gestión de memoria, emulación y aplicaciones And
 
 ### Qué me gusta
 
-Aprender construyendo cosas que en theory no debería construirse a mano.
+Aprender construyendo cosas que en teoría no debería construirse a mano.
 
 ### Aprendiendo ahora
 
